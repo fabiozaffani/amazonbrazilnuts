@@ -1,0 +1,12 @@
+{
+  "transport": "ftp",
+  "hostname": "177.55.104.252",
+  "port": "21",
+  "username": "default",
+  "password": "$T(@6yd*OE",
+  "uploadOnSave": true,
+  "target": "/www/amazonbrazilnuts.com.br",
+  "ignore": [
+    ".git/**"
+  ]
+}
